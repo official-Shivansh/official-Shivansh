@@ -1,3 +1,5 @@
+<img width="50%" height="70%" align="right" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif">
+
 # 💫 About Me:
 - 👨‍💻 All of my projects are available at [portfolio]()
 
@@ -10,8 +12,7 @@
 - 📄 Know about my experiences [Resume]()
 
 
- <img width="100%" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif">
-
+ 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Shivansh) 
