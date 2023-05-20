@@ -1,3 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2000&pause=2000&color=2E2E2E&center=true&multiline=true&repeat=false&width=1000&height=100&lines=Hey!%F0%9F%91%8BI+am+Shivansh+Soni;I+am+a+%F0%9F%8E%93Full-Stack+Web+Developer+%F0%9F%91%A8)](https://git.io/typing-svg)
+
+
+
 <img width="50%" height="70%" align="right" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif">
 
 # 💫 About Me:
