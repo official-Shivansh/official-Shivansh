@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **officialsonishivansh@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1aeFZHzRbJU_3am7SaIvkrHx6ExxSBhIG/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1qyoq52Dp7zb9u4l_FdzvrfgSqiPhEBzL/view?usp=sharing)
 
 ##
 
